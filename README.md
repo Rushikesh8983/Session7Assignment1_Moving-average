@@ -1,0 +1,2 @@
+# Session7Assignment1_Moving-average
+Session7_assignment1_Moving average in Numpy2
